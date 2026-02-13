@@ -8,6 +8,9 @@
 ![Reproducibility](https://img.shields.io/badge/Reproducible-Yes-00c853?style=for-the-badge&logo=git&logoColor=white)
 ![Pipeline](https://img.shields.io/badge/Pipeline-DVC%20Repro-5e35b1?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
+<p align="center">
+  <img src="Spam Detection.png" alt="Spam Detection MLOps Pipeline Poster" width="100%">
+</p>
 
 
 
